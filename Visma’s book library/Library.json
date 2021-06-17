@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "All Quiet on the Western Front",
+    "Author": "Erich Maria Remarque",
+    "Category": "War novel",
+    "Language": "English",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "0099532816",
+    "Taken": true
+  },
+  {
+    "Name": "All Quiet on the Western Front",
+    "Author": "Erich Maria Remarque",
+    "Category": "War novel",
+    "Language": "English",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "0099532815",
+    "Taken": false
+  },
+  {
+    "Name": "All Quiet on the Western Front",
+    "Author": "Erich Maria Remarque",
+    "Category": "War novel",
+    "Language": "English",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "0099532810",
+    "Taken": false
+  },
+  {
+    "Name": "All Quiet on the Western Front",
+    "Author": "Erich Maria Remarque",
+    "Category": "War novel",
+    "Language": "English",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "0099532812",
+    "Taken": false
+  },
+  {
+    "Name": "Example",
+    "Author": "Example",
+    "Category": "Example",
+    "Language": "English",
+    "Publication_date": "2000-01-01T00:00:00",
+    "ISBN": "101",
+    "Taken": false
+  },
+  {
+    "Name": "Test",
+    "Author": "Test author",
+    "Category": "Test",
+    "Language": "French",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "2",
+    "Taken": false
+  },
+  {
+    "Name": "Another Test",
+    "Author": "Test author",
+    "Category": "Test",
+    "Language": "French",
+    "Publication_date": "1996-01-01T00:00:00",
+    "ISBN": "3",
+    "Taken": true
+  }
+]

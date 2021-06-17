@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Thomas",
+    "Surname": "Smithmires",
+    "Periods": [
+      "54.00:00:00"
+    ],
+    "Taken_dates": [
+      "2021-06-17T03:18:59.9176973+03:00"
+    ],
+    "Taken_books": [
+      {
+        "Name": "All Quiet on the Western Front",
+        "Author": "Erich Maria Remarque",
+        "Category": "War novel",
+        "Language": "English",
+        "Publication_date": "1996-01-01T00:00:00",
+        "ISBN": "0099532816",
+        "Taken": true
+      }
+    ]
+  },
+  {
+    "Name": "Mathew",
+    "Surname": "Corny",
+    "Periods": [],
+    "Taken_dates": [],
+    "Taken_books": []
+  }
+]

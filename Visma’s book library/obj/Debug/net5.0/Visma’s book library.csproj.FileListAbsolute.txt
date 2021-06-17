@@ -1,0 +1,18 @@
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.exe
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.deps.json
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.runtimeconfig.json
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.runtimeconfig.dev.json
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.dll
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\ref\Visma’s book library.dll
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Visma’s book library.pdb
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.csproj.AssemblyReference.cache
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.AssemblyInfoInputs.cache
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.AssemblyInfo.cs
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.csproj.CoreCompileInputs.cache
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.dll
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\ref\Visma’s book library.dll
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.pdb
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.genruntimeconfig.cache
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\laury\source\repos\Visma’s book library\Visma’s book library\obj\Debug\net5.0\Visma’s book library.csproj.CopyComplete
